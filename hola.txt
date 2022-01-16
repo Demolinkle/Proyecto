@@ -1,0 +1,3 @@
+2 gatos
+0 aves 
+0 perros
