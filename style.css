@@ -41,3 +41,15 @@ body{
 #post{
     font-size: 1em;
 }
+
+#footer{
+    margin: auto;
+    padding: auto;
+    width: 70%;
+    background-color: bisque;
+}
+
+#footer_div{
+    text-align: center;
+    border: 1px solid #DDD;
+}
